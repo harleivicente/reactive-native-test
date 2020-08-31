@@ -1,4 +1,6 @@
 {
+  "name": "eitaman",
+  "displayName": "Eita man",
   "expo": {
     "name": "nativeTest",
     "slug": "nativeTest",
